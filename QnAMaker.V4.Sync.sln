@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QnAMaker.V4.Sync", "QnAMaker.V4.Sync\QnAMaker.V4.Sync.csproj", "{1CAA0ED3-8BED-4CC0-BAFD-3B1F085E7CE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QnAMaker.V4.Sync.Tests", "QnAMaker.V4.Sync.Tests\QnAMaker.V4.Sync.Tests.csproj", "{2859CCDE-3C4A-4815-BB8B-38B2A04407E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CAA0ED3-8BED-4CC0-BAFD-3B1F085E7CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAA0ED3-8BED-4CC0-BAFD-3B1F085E7CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAA0ED3-8BED-4CC0-BAFD-3B1F085E7CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAA0ED3-8BED-4CC0-BAFD-3B1F085E7CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2859CCDE-3C4A-4815-BB8B-38B2A04407E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2859CCDE-3C4A-4815-BB8B-38B2A04407E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2859CCDE-3C4A-4815-BB8B-38B2A04407E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2859CCDE-3C4A-4815-BB8B-38B2A04407E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BAA3401-B78D-42A9-A8A3-3D9B80DBA46C}
+	EndGlobalSection
+EndGlobal
